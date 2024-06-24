@@ -22,7 +22,6 @@ const Navbar = () => {
           <a href="#">Features</a>
           <a href="#">Workflow</a>
           <a href="#">Pricing</a>
-          <a href="#">Testamonials</a>
         </div>
         <div className="items-center justify-center hidden gap-4 md:flex">
           <button className="px-3 py-1 border-2 border-gray-300 rounded-md text-nowrap">
